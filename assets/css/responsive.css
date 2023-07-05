@@ -1,0 +1,95 @@
+@media (min-width: 320px) and (max-width: 1600px) {
+    .hero-social {
+        right: 40px;
+    }
+
+    .owl-nav {
+        right: 12px;
+    }
+
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 1500px) {
+
+    .exercise-thumb {
+        height: 550px;
+        margin-bottom: 30px;
+    }
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 1400px) {
+    .footer-item h4 {
+        font-size: 24px;
+        line-height: 20px;
+        margin-bottom: 40px;
+    }
+
+    .hero-content h1 {
+        font-size: 53px;
+        margin-bottom: 33px;
+    }
+
+    .exercise-thumb a {
+        font-size: 26px;
+    }
+
+    .h3 { 
+        font-size: 34px; 
+    }
+    .training-area {
+        padding-top: 119px;
+        padding-bottom: 145px;
+    }
+
+
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+    .footer {
+        padding-top: 88px;
+        padding-bottom: 60px;
+    }.footer-item h4 {
+        font-size: 23px; 
+        margin-bottom: 37px;
+    }
+    .p {
+        font-size: 17px; 
+    }
+    .header-left p {
+        font-size: 15px; 
+    }
+    .header-left p i { 
+        margin-right: 8px;
+        font-size: 20px; 
+    }
+    .header-nav ul li a {
+        font-size: 16px; 
+        margin-left: 40px; 
+    }.popular-exercise-area {
+        padding-top: 120px;
+        padding-bottom: 40px;
+    }.section-title h3 {
+        font-size: 42px; 
+        margin-bottom: 25px;
+    }.exercise-thumb {
+        height: 410px;
+        margin-bottom: 26px;
+    }.training-area {
+        padding-top: 95px;
+        padding-bottom: 145px;
+    }.trainin-content.common-content { 
+        margin-left: 20px;
+    }.newsletter-area { 
+        padding: 170px 0;
+        padding-top: 397px;
+    }.exercise-thumb a {
+        font-size: 21px;
+    }
+}
+ 
